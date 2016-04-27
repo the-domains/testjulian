@@ -4,8 +4,15 @@
         <description><![CDATA[testJulian]]></description>
         <link>https://thegrid.ai/testjulian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 03:39:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 03:43:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/testjulian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>Vestibulum id ligula porta felis euismod semper. Cras justo odio, dapibus ac facilisis in, egestas eget quam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64d61e12ea077f72346432421cb7a4791cf1ebd.jpg"></article>]]></description>
+            <link>http://www.livingguild.com/</link>
+            <guid isPermaLink="false">021b8a04-764a-462b-8a42-62bde3264acc</guid>
+            <pubDate>Wed, 27 Apr 2016 03:43:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is the way]]></title>
             <description><![CDATA[<p>Hello How are things?</p>]]></description>
